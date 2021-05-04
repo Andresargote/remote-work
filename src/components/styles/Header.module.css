@@ -1,0 +1,10 @@
+.header h1{
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.buttonHeader {
+    position: absolute !important;
+    top: 15px;
+    right: 10px;
+}
